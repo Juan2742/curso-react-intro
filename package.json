@@ -29,5 +29,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "file://wsl.localhost/Ubuntu-22.04/home/juan/cursos_de_platzi/frontend/curso-react-intro/build/"
 }
